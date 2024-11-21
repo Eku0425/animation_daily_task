@@ -1,16 +1,18 @@
 # animation_daily_task
 
-A new Flutter project.
 
-## Getting Started
+ <img src ="https://github.com/user-attachments/assets/e192b590-ed8b-4fe5-a629-e1a11179ad05" height=25% width=25%>
+ <img src ="https://github.com/user-attachments/assets/b35c9949-cf63-4812-b0be-ad38ab5f9bab"height=25% width=25%>
+ <img src ="https://github.com/user-attachments/assets/29f94f16-01f6-457a-9743-0ba52ca8ee09"height=25% width=25%>
+ <img src ="https://github.com/user-attachments/assets/f8cf06b4-5261-4d60-a573-2593123f8b75"height=25% width=25%>
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/f2d4428b-3255-4de2-a65f-8f9d65ca72b7
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/4259ea42-f37d-4261-892d-bf3e577e24fc
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
